@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.header {
+  background-image: url('../src/assets/img/plants/plants.jpg');
+  background-position: center;
+  background-size: cover;
+}
+
+.card-benefits {
+  background-image: url('../src//assets/img/plants/plants3.jpg');
+  background-position: center;
+  background-size: cover;
+}
+
+.card-types {
+  background-image: url('../src//assets/img/plants/plants9.jpg');
+  background-position: center;
+  background-size: cover;
+}
+
+.card-tips {
+  background-image: url('../src//assets/img/plants/plants7.jpg');
+  background-position: center;
+  background-size: cover;
+}
