@@ -1,5 +1,4 @@
 export function NavBar() {
-    // const imageSrc = `../assets/img/logo/Frame.png`
     return (
         <div className="navbar bg-base-100">
             <div className="flex-1">
