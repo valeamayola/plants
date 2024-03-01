@@ -1,5 +1,5 @@
 <h1 align="center"> Plants </h1>
-![plants5](https://github.com/valeamayola/plants/assets/118310524/bf29fa67-1c4b-46f6-b4df-df5305a8d90d)
+<p align="center"><img src="https://github.com/valeamayola/plants/assets/118310524/bf29fa67-1c4b-46f6-b4df-df5305a8d90d"/></p> 
 
 
 ## Descripción del proyecto 🌱
