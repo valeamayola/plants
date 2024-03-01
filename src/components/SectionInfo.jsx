@@ -1,7 +1,7 @@
 import { InfoPlants } from "./InfoPlants"
 
 export function SectionInfo () {
-    const imgAloeVera = '../../src/assets/img/plants/aloe-vera-2.jpg'
+    const imgAloeVera = '../../src//assets/img/plants/aloe-vera-2.jpg'
     const imgSansevieria = '../../src/assets/img/plants/sansevieria-1.jpg'
     const imgPotos = '../../src/assets/img/plants/poto.jpg'
     const imgFilodendro = '../../src/assets/img/plants/filodendro-1.jpg'
