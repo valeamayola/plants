@@ -1,18 +1,18 @@
 import { InfoPlants } from "./InfoPlants"
 
 export function SectionInfo () {
-    const imgAloeVera = '../../src//assets/img/plants/aloe-vera-2.jpg'
-    const imgSansevieria = '../../src/assets/img/plants/sansevieria-1.jpg'
-    const imgPotos = '../../src/assets/img/plants/poto.jpg'
-    const imgFilodendro = '../../src/assets/img/plants/filodendro-1.jpg'
-    const imgOrquidea = '../../src/assets/img/plants/orquidea-1.jpg'
-    const imgMonstera = '../../src/assets/img/plants/monstera-1.jpg'
-    const imgLavanda = '../../src/assets/img/plants/lavanda-1.jpg'
-    const imgGeranio = '../../src/assets/img/plants/geranio.jpg'
-    const imgPetunia = '../../src/assets/img/plants/petunia-1.jpg'
-    const imgRosas = '../../src/assets/img/plants/rosas.jpg'
-    const imgHiedra = '../../src/assets/img/plants/hiedra.jpg'
-    const imgJazmin = '../../src/assets/img/plants/jazmin.jpg'
+    const imgAloeVera = '/plants/aloe-vera-2.jpg'
+    const imgSansevieria = '/plants/sansevieria-1.jpg'
+    const imgPotos = '/plants/poto.jpg'
+    const imgFilodendro = '/plants/filodendro-1.jpg'
+    const imgOrquidea = '/plants/orquidea-1.jpg'
+    const imgMonstera = '/plants/monstera-1.jpg'
+    const imgLavanda = '/plants/lavanda-1.jpg'
+    const imgGeranio = '/plants/geranio.jpg'
+    const imgPetunia = '/plants/petunia-1.jpg'
+    const imgRosas = '/plants/rosas.jpg'
+    const imgHiedra = '/plants/hiedra.jpg'
+    const imgJazmin = '/plants/jazmin.jpg'
     
     return (
         <>
