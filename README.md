@@ -1,8 +1,47 @@
-# React + Vite
+<h1 align="center"> Plants </h1>
+![plants5](https://github.com/valeamayola/plants/blob/main/public/plants/plants5.jpg)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Descripción del proyecto 🌱
 
-Currently, two official plugins are available:
+Plants es un proyecto personal creado para la practica de tecnologías y herramientas, es una landing page estática dedicada a dar información sobre las plantas.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Comenzando 🚀
+
+_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local._
+
+### Pre-requisitos 📋
+
+● Asegúrate de tener Node.js: https://nodejs.org/ y npm: https://www.npmjs.com/ instalados en tu máquina.
+
+### Instalar las dependencias 🔧
+
+● Instala las dependencias del proyecto ejecutando el siguiente comando en tu terminal:
+```
+npm install
+```
+### Clonar el repositorio 🖱️
+
+● Abre tu terminal y navega a la ubicación donde deseas clonar el proyecto.
+● Clona el repositorio usando el siguiente comando:
+
+```
+git clone https://github.com/<usuario>/<nombre-del-proyecto>.git
+```
+
+### Iniciar el proyecto 🖥️
+
+● Navega al directorio del proyecto clonado.
+● Ejecuta el siguiente comando para iniciar el servidor de desarrollo:
+
+```
+npm start
+```
+
+## Tecnologías utilizadas 🛠️
+
+* [Vite](https://vitejs.dev/) 
+* [React](https://es.react.dev/)
+* [JavaScript](https://www.javascript.com/)
+* [TailwindCSS](https://tailwindcss.com/)
+
+
